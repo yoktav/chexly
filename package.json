@@ -1,0 +1,20 @@
+{
+  "name": "chexly",
+  "version": "1.0.0",
+  "description": "Chexly is a easy to use custom checkbox component.",
+  "main": "index.js",
+  "repository": "https://github.com/yoktav/chexly",
+  "bugs": "https://github.com/yoktav/chexly/issues",
+  "homepage": "https://github.com/yoktav/chexly/blob/master/README.md",
+  "author": "yoktav",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "keywords": [
+    "chexly",
+    "custom checkbox",
+    "checkbox"
+  ]
+}
